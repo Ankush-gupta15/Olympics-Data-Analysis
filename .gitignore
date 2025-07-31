@@ -25,7 +25,7 @@ env/
 .vscode/
 
 # Data files (optional: only if too large or sensitive)
-*.csv
+
 
 # Log files
 *.log
